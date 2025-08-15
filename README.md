@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Helena
 
-I'm a **Data Engineer** with over 2 years of experience turning raw data into actionable insights. I specialize in building efficient data pipelines, optimizing performance, and leveraging cloud technologies like **Snowflake, Python, and AWS** to support scalable data solutions across industries.
+I'm a **Data Engineer** with over 3 years of experience turning raw data into actionable insights. I specialize in building efficient data pipelines, optimizing performance, and leveraging cloud technologies like **Snowflake, Python, and AWS** to support scalable data solutions across industries.
 
 I'm also passionate about creating more inclusive tech spaces and have led initiatives to reduce the gender gap in tech through **Women in Tech**.
 
@@ -37,13 +37,7 @@ I'm also passionate about creating more inclusive tech spaces and have led initi
 - Key tools: Python, SQL, Snowflake, AWS (S3, Glue, Redshift, Lambda, CloudWatch).
 
 ---
-
-## 📚 Certifications & Courses
-
-- 🎓 *Data Engineering on Snowflake* – Snowflake Academy (2023)  
-- 🐍 *Python for Data Science* – Coursera (2022)  
-- 🗣️ *English:* C2 Proficiency  
-
+-  *English:* C2 Proficiency  
 ---
 
 ## 📫 Let’s Connect
