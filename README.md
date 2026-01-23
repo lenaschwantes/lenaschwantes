@@ -5,7 +5,6 @@ Building production-grade data pipelines and LLM-powered applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-helena%40schwantes.com.br-EA4335?style=flat&logo=gmail)](mailto:helena@schwantes.com.br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=flat&logo=google-chrome)](your-portfolio-url)
 
 ---
 
