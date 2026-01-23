@@ -39,9 +39,9 @@ Data Engineer specializing in scalable data infrastructure and LLM integration. 
 
 ## 📊 GitHub Stats
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenaschwantes&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenaschwantes&layout=compact)
 
 ---
 
