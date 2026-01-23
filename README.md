@@ -28,15 +28,6 @@ I'm also passionate about creating more inclusive tech spaces and have led initi
 **Streaming:** Kafka, Kafka Connect
 
 ---
-
-## 🏢 Work Experience
-
-**Data Engineer | Big Data & Cloud Projects (Remote)**  
-*Sep 2022 – Present*  
-- Designed and deployed cloud-based data pipelines using Snowflake and AWS.  
-- Key tools: Python, SQL, Snowflake, AWS (S3, Glue, Redshift, Lambda, CloudWatch).
-
----
 -  *English:* C2 Proficiency  
 ---
 
