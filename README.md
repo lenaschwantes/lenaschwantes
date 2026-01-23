@@ -43,4 +43,4 @@ I'm also passionate about creating more inclusive tech spaces and have led initi
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/helena)  
-- 📧 helenagssm@gmail.com
+- 📧 helena@schwantes.com.br
