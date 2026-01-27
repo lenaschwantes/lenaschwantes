@@ -32,7 +32,7 @@ Data Engineer specializing in scalable data infrastructure and LLM integration. 
 
 ### AI & LLMs
 **Frameworks:** LangChain • CrewAI • OpenAI API  
-**Techniques:** RAG • Prompt Engineering • Multi-agent systems • Vector databases (FAISS, Pinecone)
+**Techniques:** RAG • Prompt Engineering • Multi-agent systems • Vector databases (FAISS, Pinecone, Weaviate)
 
 ---
 
