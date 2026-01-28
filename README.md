@@ -3,7 +3,7 @@
 **Data Engineer & AI Integration Specialist**  
 Building production-grade data pipelines and LLM-powered applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/helenags)
 [![Email](https://img.shields.io/badge/Email-helena%40schwantes.com.br-EA4335?style=flat&logo=gmail)](mailto:helena@schwantes.com.br)
 
 ---
