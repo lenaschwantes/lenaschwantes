@@ -53,7 +53,7 @@ Data Engineer specializing in scalable data infrastructure and LLM integration. 
 
 ## 📫 Let's Connect
 
-Open to **Mid Level Data Engineer** positions and collaborative projects in AI engineering and integration.
+Open to **Data Engineer** positions and collaborative projects in AI engineering and integration.
 
 - 💼 [LinkedIn](your-linkedin-url)
 - 📧 helena@schwantes.com.br
